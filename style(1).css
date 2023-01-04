@@ -56,12 +56,46 @@ body{
     background-color: gold;
 }
 .colonne_contenu {
-    background-color: lightgreen;
+    background-color: rgb(216, 240, 38);
+    padding: 10px;
+}
+h1 {
+    background-color: rgb(218, 188, 240);
+    padding: 10px;
+    margin-bottom: 20px;
+    border-bottom: 5px solid purple;
+}
+.introduction {
+    font-style: italic;
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 10px;
+}
+h2 {
+    color: chocolate;
+    font-size: 1.8rem;
+    padding: 20px;
+    font-variant: small-caps;
+}
+strong {
+    color:rgb(243, 21, 21);
+    font-weight:normal;
+}
+em {
+    color: rgb(34, 110, 168);
+}
+a {
+    font-weight: 800;
+}
+:hover {
+    color: green;
+    text-decoration: none;
 }
 .pieddepage{
     background-color: rgb(240, 48, 80);
     color: antiquewhite;
     text-align: center;
+    line-height:50px;
 }
 
 
