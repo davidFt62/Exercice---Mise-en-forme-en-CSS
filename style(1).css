@@ -38,6 +38,16 @@ body{
 }
 .entete{
     background-color: hotpink;
+    padding: 10px;
+}
+.entete__title {
+    font-size: 2rem;
+    color: rgb(97, 243, 13);
+}
+.entete__slogan {
+    font-size: 1.2rem;
+    color: rgb(42, 246, 199);
+    font-style: italic;
 }
 .colonnes {
     background-color: deepskyblue;
