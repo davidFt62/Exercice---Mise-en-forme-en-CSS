@@ -27,10 +27,14 @@
  ************************************************************/
 body{
 	/* Pour avoir le choix des couleurs https://htmlcolorcodes.com/fr/noms-de-couleur/ */
-    background-color: mediumpurple; 
+    margin: 0;
+    padding: 0;
+    background-color: rgba(85, 14, 228, 0.593); 
+    font-size: 1.1rem;
+    font-family: 'Lucida', sans-serif;
 }
 .page {
-	background-color: red; 
+	background-color:transparent; 
 }
 .entete{
     background-color: hotpink;
