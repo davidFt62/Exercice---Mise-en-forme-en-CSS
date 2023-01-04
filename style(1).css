@@ -59,7 +59,9 @@ body{
     background-color: lightgreen;
 }
 .pieddepage{
-    background-color: lightgray;
+    background-color: rgb(240, 48, 80);
+    color: antiquewhite;
+    text-align: center;
 }
 
 
